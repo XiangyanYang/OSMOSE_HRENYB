@@ -1,0 +1,2 @@
+"Biomass of prey species (in tons per time step of saving, in rows) eaten by a predator species (in col). The last column reports the biomass of prey at the beginning of the time step (before all sources of mortality - fishing, predation, starvation, others)"
+"Time","Prey","AtlanticHerring","AtlanticMackerel","BlackSeaBass","Scup","SpinyDogfish","StripedBass","Goosefish","Haddock","WinterFlounder","Squids","Flounders","SkateRays","Hakes","Benthopelagics","MiscellaneousDemersals","ShallowDemersal","WhitePerch","AtlanticTomcod"

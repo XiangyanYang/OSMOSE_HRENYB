@@ -1,0 +1,3 @@
+"Predation (Mpred), Starvation (Mstarv), Additional mortality (Madd), Fishing (F) & Out-of-domain (Zout) mortality rates per time step of saving, except for Madd Eggs that is expressed in osmose time step. Z is the total mortality for migratory fish outside the simulation grid. To get annual mortality rates, sum the mortality rates within one year."
+"Time","Mpred","Mpred","Mpred","Mstarv","Mstarv","Mstarv","Madd","Madd","Madd","F","F","F","Zout","Zout","Zout","Mfor","Mfor","Mfor","Mdis","Mdis","Mdis","Mage","Mage","Mage"
+,Eggs,Pre-recruits,Recruits,Eggs,Pre-recruits,Recruits,Eggs,Pre-recruits,Recruits,Eggs,Pre-recruits,Recruits,Eggs,Pre-recruits,Recruits,Eggs,Pre-recruits,Recruits,Eggs,Pre-recruits,Recruits,Eggs,Pre-recruits,Recruits
