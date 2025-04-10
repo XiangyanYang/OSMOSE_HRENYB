@@ -1,0 +1,47 @@
+simulation.ncpu,1
+simulation.nresource,7
+simulation.nsimulation,1
+simulation.nspecies,18
+simulation.time.ndtPerYear,24
+simulation.time.nyear,60
+simulation.time.start,2000
+,
+module.population.initialisation.enabled,TRUE
+population.initialization.relativebiomass.enabled,TRUE
+fisheries.check.enabled ,FALSE
+economy.enabled,FALSE
+simulation.bioen.enabled,FALSE
+simulation.incoming.flux.enabled,FALSE
+output.flush.enabled,FALSE
+movement.netcdf.enabled,FALSE
+,
+species.biomass.nsteps.year,24
+,
+#simulation.nschool,30
+simulation.nschool.sp0,30
+simulation.nschool.sp1,30
+simulation.nschool.sp2,30
+simulation.nschool.sp3,30
+simulation.nschool.sp4,30
+simulation.nschool.sp5,30
+simulation.nschool.sp6,30
+simulation.nschool.sp7,30
+simulation.nschool.sp8,30
+simulation.nschool.sp9,30
+simulation.nschool.sp10,30
+simulation.nschool.sp11,30
+simulation.nschool.sp12,30
+simulation.nschool.sp13,30
+simulation.nschool.sp14,30
+simulation.nschool.sp15,30
+simulation.nschool.sp16,30
+simulation.nschool.sp17,30
+,
+,
+# Mortality algorithm,
+mortality.algorithm,stochastic
+mortality.subdt,10
+,
+# fix the seed of the mortality process,Êto insure
+# reproducible runs,
+stochastic.mortality.seed,1

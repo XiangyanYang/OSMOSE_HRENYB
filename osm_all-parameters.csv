@@ -1,0 +1,29 @@
+####### Main configuration files #######,
+osmose.configuration.simulation,osm_param-simulation.csv
+osmose.configuration.output,osm_param-output.csv
+osmose.configuration.movement,osm_param-movement.csv
+,
+##Backgroundspecies,
+#osmose.configuration.background,osm_param-background.csv
+,
+## No MPA at the moment,
+osmose.configuration.mpa,osm_param-mpa.csv
+,
+osmose.configuration.mortality.fishing,osm_param-fishing.csv
+osmose.configuration.mortality.natural,osm_param-natural-mortality.csv
+osmose.configuration.mortality.predation,osm_param-predation.csv
+osmose.configuration.mortality.starvation,osm_param-starvation.csv
+,
+osmose.configuration.reproduction,osm_param-reproduction.csv
+osmose.configuration.species,osm_param-species.csv
+osmose.configuration.plankton,osm_param-ltl.csv
+osmose.configuration.grid,osm_param-grid.csv
+,
+osmose.configuration.seeding,osm_param-seeding.csv
+,
+osmose.configuration.init.setup,osm_param-init-pop.csv
+osmose.configuration.initialization,initial_conditions.osm
+,
+#osmose.configuration.calibration,calibration-parameters.csv
+,
+osmose.version,Osmose 4 Update 4 Release 1

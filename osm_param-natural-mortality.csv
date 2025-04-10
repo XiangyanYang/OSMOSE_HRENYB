@@ -1,0 +1,74 @@
+# Larva mortality rate,
+mortality.additional.larva.rate.sp0,0.8
+mortality.additional.larva.rate.sp1,0.8
+mortality.additional.larva.rate.sp2,0.8
+mortality.additional.larva.rate.sp3,0.8
+mortality.additional.larva.rate.sp4,0.8
+mortality.additional.larva.rate.sp5,0.8
+mortality.additional.larva.rate.sp6,0.8
+mortality.additional.larva.rate.sp7,0.8
+mortality.additional.larva.rate.sp8,0.8
+mortality.additional.larva.rate.sp9,0.8
+mortality.additional.larva.rate.sp10,0.8
+mortality.additional.larva.rate.sp11,0.8
+mortality.additional.larva.rate.sp12,0.8
+mortality.additional.larva.rate.sp13,0.8
+mortality.additional.larva.rate.sp14,0.8
+mortality.additional.larva.rate.sp15,0.8
+mortality.additional.larva.rate.sp16,0.8
+mortality.additional.larva.rate.sp17,0.8
+,
+# Time series can be provided in a CSV file instead,
+#mortality.natural.larva.rate.byDt.file.spX,null
+,
+# Natural mortality rate,
+#mortality.natural.rate.bytDt.file.sp#,
+#mortality.natural.rate.byDt.byAge.file is unavailable,
+#mortality.natural.rate.byDt.bySize.file.sp#,
+mortality.additional.rate.sp0,0.35
+mortality.additional.rate.sp1,0.2
+mortality.additional.rate.sp2,0.4
+mortality.additional.rate.sp3,0.2
+mortality.additional.rate.sp4,0.102
+mortality.additional.rate.sp5,0.21
+mortality.additional.rate.sp6,0.2
+mortality.additional.rate.sp7,0.2
+mortality.additional.rate.sp8,0.3
+mortality.additional.rate.sp9,0.2
+mortality.additional.rate.sp10,0.25
+mortality.additional.rate.sp11,0.2
+mortality.additional.rate.sp12,0.2
+mortality.additional.rate.sp13,0.2
+mortality.additional.rate.sp14,0.2
+mortality.additional.rate.sp15,0.2
+mortality.additional.rate.sp16,0.2
+mortality.additional.rate.sp17,0.2
+,
+# Time series can be provided in a CSV file instead,
+#mortality.natural.rate.bytDt.file.spX,
+,
+# Time series can be provided in a CSV file instead,
+mortality.natural.rate.file,null
+,
+"# mortality out rate, Annual mortality rate for species that move out of the simulated area",
+mortality.out.rate.sp0,0.2
+mortality.out.rate.sp1,0.2
+mortality.out.rate.sp2,0.2
+mortality.out.rate.sp3,0.2
+mortality.out.rate.sp4,0.2
+mortality.out.rate.sp5,0.2
+mortality.out.rate.sp6,0.2
+mortality.out.rate.sp7,0.2
+mortality.out.rate.sp8,0.2
+mortality.out.rate.sp9,0.2
+mortality.out.rate.sp10,0.2
+mortality.out.rate.sp11,0.2
+mortality.out.rate.sp12,0.2
+mortality.out.rate.sp13,0.2
+mortality.out.rate.sp14,0.2
+mortality.out.rate.sp15,0.2
+mortality.out.rate.sp16,0.2
+mortality.out.rate.sp17,0.2
+,
+# Time series can be provided in a CSV file instead,
+mortality.out.rate.file,null
