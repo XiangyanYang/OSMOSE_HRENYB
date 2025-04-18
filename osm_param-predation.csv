@@ -1,4 +1,4 @@
-predation.accessibility.file,predation-accessibility.csv
+predation.accessibility.file,osm_predation-accessibility.csv
 ,
 predation.accessibility.stage.structure,age
 predation.accessibility.stage.threshold.sp0,null
