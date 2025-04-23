@@ -1,0 +1,113 @@
+
+#------- Parameters to be calibrated -------
+
+#---- Resources species
+
+species.accessibility2fish.logit.sp18 = 0
+species.accessibility2fish.logit.sp19 = 999
+species.accessibility2fish.logit.sp20 = 7.3541654558865
+species.accessibility2fish.logit.sp21 = 999
+species.accessibility2fish.logit.sp22 = 999
+species.accessibility2fish.logit.sp23 = 999
+species.accessibility2fish.logit.sp24 = 5.30694383367838
+
+#---- Focal species
+
+population.initialization.biomass.log10.sp0 = 2.88403028685741
+population.initialization.biomass.log10.sp1 = 3.41526856785512
+population.initialization.biomass.log10.sp2 = 1.97356654659302
+population.initialization.biomass.log10.sp3 = 3.37170405330095
+population.initialization.biomass.log10.sp4 = 4.19056906628659
+population.initialization.biomass.log10.sp5 = -0.292429823902064
+population.initialization.biomass.log10.sp6 = 2.66538771980481
+population.initialization.biomass.log10.sp7 = -0.920818753952375
+population.initialization.biomass.log10.sp8 = 3.09453925477346
+population.initialization.biomass.log10.sp9 = 3.92481716778333
+population.initialization.biomass.log10.sp10 = 3.72831205527587
+population.initialization.biomass.log10.sp11 = 4.06784894871728
+population.initialization.biomass.log10.sp12 = 3.32456290661136
+population.initialization.biomass.log10.sp13 = 3.88621951666703
+population.initialization.biomass.log10.sp14 = 3.81004800449217
+population.initialization.biomass.log10.sp15 = 2.97708220466133
+population.initialization.biomass.log10.sp16 = -0.531652669587843
+population.initialization.biomass.log10.sp17 = -1.27572413039921
+
+mortality.additional.rate.log10.sp0 = -0.455931955649724
+mortality.additional.rate.log10.sp1 = -0.698970004336019
+mortality.additional.rate.log10.sp2 = -0.397940008672038
+mortality.additional.rate.log10.sp3 = -0.698970004336019
+mortality.additional.rate.log10.sp4 = -0.991399828238082
+mortality.additional.rate.log10.sp5 = -0.677780705266081
+mortality.additional.rate.log10.sp6 = -0.698970004336019
+mortality.additional.rate.log10.sp7 = -0.698970004336019
+mortality.additional.rate.log10.sp8 = -0.522878745280338
+mortality.additional.rate.log10.sp9 = -0.698970004336019
+mortality.additional.rate.log10.sp10 = -0.602059991327962
+mortality.additional.rate.log10.sp11 = -0.698970004336019
+mortality.additional.rate.log10.sp12 = -0.698970004336019
+mortality.additional.rate.log10.sp13 = -0.698970004336019
+mortality.additional.rate.log10.sp14 = -0.698970004336019
+mortality.additional.rate.log10.sp15 = -0.698970004336019
+mortality.additional.rate.log10.sp16 = -0.698970004336019
+mortality.additional.rate.log10.sp17 = -0.698970004336019
+
+mortality.additional.larva.rate.log10.sp0 = -0.0969100130080564
+mortality.additional.larva.rate.log10.sp1 = -0.0969100130080564
+mortality.additional.larva.rate.log10.sp2 = -0.0969100130080564
+mortality.additional.larva.rate.log10.sp3 = -0.0969100130080564
+mortality.additional.larva.rate.log10.sp4 = -0.0969100130080564
+mortality.additional.larva.rate.log10.sp5 = -0.0969100130080564
+mortality.additional.larva.rate.log10.sp6 = -0.0969100130080564
+mortality.additional.larva.rate.log10.sp7 = -0.0969100130080564
+mortality.additional.larva.rate.log10.sp8 = -0.0969100130080564
+mortality.additional.larva.rate.log10.sp9 = -0.0969100130080564
+mortality.additional.larva.rate.log10.sp10 = -0.0969100130080564
+mortality.additional.larva.rate.log10.sp11 = -0.0969100130080564
+mortality.additional.larva.rate.log10.sp12 = -0.0969100130080564
+mortality.additional.larva.rate.log10.sp13 = -0.0969100130080564
+mortality.additional.larva.rate.log10.sp14 = -0.0969100130080564
+mortality.additional.larva.rate.log10.sp15 = -0.0969100130080564
+mortality.additional.larva.rate.log10.sp16 = -0.0969100130080564
+mortality.additional.larva.rate.log10.sp17 = -0.0969100130080564
+
+osmose.user.larval.deviate.log.sp0 = 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+osmose.user.larval.deviate.log.sp1 = 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+osmose.user.larval.deviate.log.sp2 = 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+osmose.user.larval.deviate.log.sp3 = 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+osmose.user.larval.deviate.log.sp4 = 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+osmose.user.larval.deviate.log.sp5 = 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+osmose.user.larval.deviate.log.sp6 = 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+osmose.user.larval.deviate.log.sp7 = 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+osmose.user.larval.deviate.log.sp8 = 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+osmose.user.larval.deviate.log.sp9 = 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+osmose.user.larval.deviate.log.sp10 = 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+osmose.user.larval.deviate.log.sp11 = 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+osmose.user.larval.deviate.log.sp12 = 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+osmose.user.larval.deviate.log.sp13 = 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+osmose.user.larval.deviate.log.sp14 = 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+osmose.user.larval.deviate.log.sp15 = 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+osmose.user.larval.deviate.log.sp16 = 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+osmose.user.larval.deviate.log.sp17 = 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+species.delta.lmax.factor.sp0 = 2
+species.delta.lmax.factor.sp1 = 2
+species.delta.lmax.factor.sp2 = 2
+species.delta.lmax.factor.sp3 = 2
+species.delta.lmax.factor.sp4 = 2
+species.delta.lmax.factor.sp5 = 2
+species.delta.lmax.factor.sp6 = 2
+species.delta.lmax.factor.sp7 = 2
+species.delta.lmax.factor.sp8 = 2
+species.delta.lmax.factor.sp9 = 2
+species.delta.lmax.factor.sp10 = 2
+species.delta.lmax.factor.sp11 = 2
+species.delta.lmax.factor.sp12 = 2
+species.delta.lmax.factor.sp13 = 2
+species.delta.lmax.factor.sp14 = 2
+species.delta.lmax.factor.sp15 = 2
+species.delta.lmax.factor.sp16 = 2
+species.delta.lmax.factor.sp17 = 2
+
+#---- Fisheries
+
+#---- User parameters
