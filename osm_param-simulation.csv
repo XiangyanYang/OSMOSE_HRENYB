@@ -3,7 +3,7 @@ simulation.nresource,7
 simulation.nsimulation,1
 simulation.nspecies,18
 simulation.time.ndtPerYear,24
-simulation.time.nyear,60
+simulation.time.nyear,80
 simulation.time.start,2000
 ,
 module.population.initialisation.enabled,TRUE
@@ -14,6 +14,8 @@ simulation.bioen.enabled,FALSE
 simulation.incoming.flux.enabled,FALSE
 output.flush.enabled,FALSE
 movement.netcdf.enabled,FALSE
+calibration.biomass.penalty.collapse,TRUE
+calibration.biomass.penalty.outburst,TRUE
 ,
 species.biomass.nsteps.year,24
 ,
@@ -44,4 +46,4 @@ mortality.subdt,10
 ,
 # fix the seed of the mortality process,Êto insure
 # reproducible runs,
-stochastic.mortality.seed,1
+#stochastic.mortality.seed,1
