@@ -1,4 +1,4 @@
-simulation.ncpu,1
+simulation.ncpu,40
 simulation.nresource,7
 simulation.nsimulation,1
 simulation.nspecies,18
