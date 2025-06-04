@@ -1,0 +1,4 @@
+osmose.configuration.calibration.parameters = calibration_parameters.osm
+osmose.configuration.outputs = output-configuration.osm
+osmose.java.options = -Xmx4g -Xms1g
+osmose.configuration.main = ../../osmose-hrenyb-v4.4.1-xiangyan/osmose-hrenyb.R

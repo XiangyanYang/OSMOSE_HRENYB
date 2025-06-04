@@ -1,0 +1,4 @@
+osmose.configuration.calibration.parameters = calibration_parameters.osm
+osmose.configuration.outputs = output-configuration.osm
+osmose.java.options = -Xmx4g -Xms1g
+osmose.configuration.main = ../../osm_all-parameters.csv
